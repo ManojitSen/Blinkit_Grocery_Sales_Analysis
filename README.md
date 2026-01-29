@@ -18,3 +18,12 @@ This project analyzes Blinkit (formerly Grofers) sales data using Microsoft Exce
 
 - Dashboard Interaction <a href="https://github.com/ManojitSen/Blinkit_Grocery_Sales_Analysis/blob/main/Dashboard_Screenshot.png">View Dashboard</a>
 
+## Process
+-Collected and reviewed raw Blinkit sales data to understand structure and business context.
+- Verified data for missing values, duplicates, and anomalies; performed necessary data cleaning.
+- Standardized data types, formats, and category values to ensure consistency and accuracy.
+- Created calculated fields and KPIs such as total sales, average ratings, and outlet-wise performance.
+- Built pivot tables to answer key business questions across year, outlet type, size, item category, fat content, and location.
+- Designed interactive charts and visuals based on pivot tables for clear insight presentation.
+- Integrated all visuals into a single Excel dashboard and added slicers for dynamic filtering.
+- Finalized the dashboard layout for easy interpretation and decision-making.
