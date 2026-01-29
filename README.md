@@ -16,4 +16,4 @@ This project analyzes Blinkit (formerly Grofers) sales data using Microsoft Exce
 - How are sales distributed across different outlet location tiers (Tier 1, Tier 2, Tier 3)?
 - How do product ratings vary by item type, and which categories perform best?
 
-- Dashboard Interaction - <a href = “https://github.com/ManojitSen/Blinkit_Grocery_Sales_Analysis/blob/main/Dashboard_Screenshot.png”?>View Dashboard</a>
+- Dashboard Interaction <a href = “https://github.com/ManojitSen/Blinkit_Grocery_Sales_Analysis/blob/main/Dashboard_Screenshot.png”>View Dashboard</a>
