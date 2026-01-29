@@ -27,3 +27,7 @@ This project analyzes Blinkit (formerly Grofers) sales data using Microsoft Exce
 - Designed interactive charts and visuals based on pivot tables for clear insight presentation.
 - Integrated all visuals into a single Excel dashboard and added slicers for dynamic filtering.
 - Finalized the dashboard layout for easy interpretation and decision-making.
+
+## Dashboard
+<img width="1430" height="607" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/3f3ec383-eea4-49cc-9ab9-7b492d1f87f2" />
+
