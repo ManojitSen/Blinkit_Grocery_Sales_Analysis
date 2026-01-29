@@ -31,3 +31,16 @@ This project analyzes Blinkit (formerly Grofers) sales data using Microsoft Exce
 ## Dashboard
 <img width="1430" height="607" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/3f3ec383-eea4-49cc-9ab9-7b492d1f87f2" />
 
+## Project Insights
+-  Sales show a steady upward trend over the years, indicating consistent business growth.
+- Medium and High-sized outlets contribute the majority of total sales, making them critical revenue drivers.
+- Supermarket Type 1 outlets generate the highest sales compared to other outlet types.
+- Categories such as Fruits & Vegetables, Snacks, and Frozen Foods are among the top-performing item types.
+- Low-fat products dominate sales, reflecting increasing customer preference for healthier options.
+- Tier 2 and Tier 3 locations contribute a significant share of revenue, highlighting strong demand beyond metro cities.
+- Product ratings vary across item types, helping identify high-quality and low-performing categories.
+
+## Final Conclusion
+The Blinkit Sales Dashboard successfully delivers a clear and insightful view of business performance using Excel-based analytics.
+By combining KPIs and interactive visuals, the dashboard helps stakeholders understand sales behavior, customer preferences, and outlet performance in a simple yet powerful way.
+
