@@ -1,2 +1,3 @@
-# Blinkit_Grocery_Sales_Analysis
-Developed an interactive Excel dashboard to analyze Blinkit sales data across outlets, product categories, and locations, providing a consolidated view of business performance. The dashboard delivers actionable insights on sales trends, outlet efficiency, customer preferences, and key KPIs to support data-driven decision-making
+# BlinkIt Grocery Sales Analysis Interactive Dashboard (Using MS Excel) 
+##Project Overview
+This project analyzes Blinkit (formerly Grofers) sales data using Microsoft Excel. An interactive dashboard visualizes sales trends, outlet and product performance across multiple dimensions, helping stakeholders quickly identify key insights and make data-driven decisions.
